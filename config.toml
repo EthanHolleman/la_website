@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ethanholleman.com/la_website"
 languageCode = "en-us"
 title = "UC Davis Legislative Affairs Committee"
 theme = "ananke"
