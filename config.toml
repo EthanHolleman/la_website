@@ -1,7 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "UC Davis Legislative Affairs Committee "
+title = "UC Davis Legislative Affairs Committee"
 theme = "ananke"
+publishDir = "docs"
 
 [sitemap]
   changefreq = "monthly"
